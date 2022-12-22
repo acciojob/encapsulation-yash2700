@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
         RWOnly obj = new RWOnly();
-        obj.setName("Honey Singh");
+        obj.setName("yaswanth reddy");
         obj.getName();
     }
 }
